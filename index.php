@@ -164,12 +164,6 @@ echo "<strong>Ex12 <br></strong>";
 
 $array = array(1, 1, 1, 2, 2, 2, 2, 3);
 
-for ($i[] = 0; $i <= count($array); $i++) {
-
-    if($i = $i+$i)
-    echo $i;
-}
-
 
 echo "<hr>";
 //Ex13
